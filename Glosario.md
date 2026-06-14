@@ -1,0 +1,4 @@
+# Glosario
+
+| Sigla | Descripción |
+| --- | --- |
