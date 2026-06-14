@@ -7,3 +7,10 @@
 | Lambertucci Juan Pablo |  |
 | Marin Font, Franco José | 90143 |
 | Pizzarro Emilio | 87471 |
+
+## [Items de configuración](PlanGestionConfiguracion.md)
+
+## [Glosario](Glosario.md)
+
+## [Estructura del Repositorio](EstructuraRepositorio.md)
+
